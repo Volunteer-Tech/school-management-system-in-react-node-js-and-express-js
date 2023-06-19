@@ -1,0 +1,9 @@
+[build]
+  command = "CI=false npm run build"
+  publish="/build"
+  base = "/webapp"
+  
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
