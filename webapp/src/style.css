@@ -1,0 +1,144 @@
+.navtitle {
+  background-color: white;
+  border-radius: 50%;
+  padding: 3px 3px;
+  color: black !important;
+}
+
+.login-btn {
+  background-color: inherit;
+  border-color: white;
+  padding: 3px 25px;
+  border-radius: 25px;
+  height: 35px;
+  color: white;
+}
+
+.add-btn {
+  background-color: inherit;
+  border-color: black;
+  padding: 3px 25px;
+  border-radius: 25px;
+}
+
+.create-btn {
+  background-color: black;
+  color: white;
+  border-radius: 25px;
+  width: 120px;
+  padding: 6px 0;
+}
+
+a {
+  text-decoration: none;
+  color: inherit !important;
+}
+
+a:hover {
+  text-decoration: none !important;
+  color: inherit !important;
+}
+
+label {
+  font-weight: 600;
+}
+
+.homegrid {
+  background-color: white;
+  color: black;
+  margin: 20px;
+  height: 216px;
+  padding: 25px;
+  border-radius: 25px;
+  text-align: center;
+
+  font-size: 24px;
+  line-height: 28px;
+}
+
+.homegrid p {
+  margin-top: 15px;
+}
+
+.imageholder {
+  display: inline-block;
+  background-color: #e1e4e8;
+  border: 1px solid black;
+  height: 120px;
+  width: 120px;
+  border-radius: 50%;
+}
+
+.pageimageholder {
+  display: inline-block;
+  background-color: white;
+  height: 160px;
+  width: 160px;
+  border-radius: 50%;
+}
+
+.leftside {
+  margin-left: 37px;
+  margin-top: 90px;
+  text-align: center;
+}
+
+button {
+  cursor: pointer !important;
+}
+
+.rightside {
+  margin-top: 30px;
+}
+
+.rightside .row .col-md-1 {
+  cursor: pointer;
+}
+
+.pagegrid {
+  background-color: white;
+  color: black;
+  margin: 20px;
+  height: 210px;
+  border-radius: 25px;
+  padding-left: 25px;
+  line-height: 28px;
+}
+
+.page-title {
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 33px;
+}
+
+.grid-title {
+  font-size: 24px;
+  line-height: 28px;
+}
+
+.search {
+  width: 260px;
+  border-radius: 20px;
+  padding: 5px 15px;
+  height: 32px;
+  margin-right: 10px;
+}
+
+.center-div {
+  width: 750px;
+  border-radius: 15px;
+  background-color: white;
+  padding: 20px;
+  margin: auto;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: white;
+  color: black;
+  height: 50px;
+  padding: 13px;
+}
