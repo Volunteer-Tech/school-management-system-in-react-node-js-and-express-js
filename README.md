@@ -3,37 +3,8 @@
     <img src="https://github.com/Volunteer-Tech/school-management-system-in-react-node-js-and-express-js/blob/main/webapp/src/images/project-lg.png" alt="Logo" width="80" height="100">
   </a>
 
-  # school management system in React, Node.js,  and Express.js
+  # School management system in React, Node.js,  and Express.js
 
-<p align="center">
-  <h2> Features </h2>
-<h3>Home Page</h3>
-<img src="https://github.com/Volunteer-Tech/school-management-system-in-react-node-js-and-express-js/blob/main/public/docs/home.png" alt="home">
-<h3>Department Page</h3>
-<img src="https://github.com/Volunteer-Tech/school-management-system-in-react-node-js-and-express-js/blob/main/public/docs/department.png" alt="department">
-<h3>Committee Page</h3>
-<img src="https://github.com/Volunteer-Tech/school-management-system-in-react-node-js-and-express-js/blob/main/public/docs/committee.png" alt="committee">
-<h3>Project Page</h3>
-<img src="https://github.com/Volunteer-Tech/school-management-system-in-react-node-js-and-express-js/blob/main/public/docs/project.png" alt="project">
-<h3>Library Page</h3>
-<img src="https://github.com/Volunteer-Tech/school-management-system-in-react-node-js-and-express-js/blob/main/public/docs/authorTag.png" alt="authorTag">
-<h3>Add a Book</h3>
-<img src="https://github.com/Volunteer-Tech/school-management-system-in-react-node-js-and-express-js/blob/main/public/docs/add.png" alt="add">
-<h3>Update a Book</h3>
-<img src="https://github.com/Volunteer-Tech/school-management-system-in-react-node-js-and-express-js/blob/main/public/docs/update.png" alt="update">
-<h3>List Items based on Tag Names</h3>
-<h5>List Books by the Author Name</h5>
-<img src="https://github.com/Volunteer-Tech/school-management-system-in-react-node-js-and-express-js/blob/main/public/docs/authorTag.png" alt="authorTag">
-<h5>List Books by the Title of the Books</h5>
-<img src="https://github.com/Volunteer-Tech/school-management-system-in-react-node-js-and-express-js/blob/main/public/docs/nameTag.png" alt="nameTag">
-<h5>List Books by the Editon of the Books</h5>
-<img src="https://github.com/Volunteer-Tech/school-management-system-in-react-node-js-and-express-js/blob/main/public/docs/edition.png" alt="editionTag">
-<h3> Search an item by Tag</h3>
-<img src="https://github.com/Volunteer-Tech/school-management-system-in-react-node-js-and-express-js/blob/main/public/docs/search.png" alt="search">
-<h3> Change the order of the current Tag</h3>
-<img src="https://github.com/Volunteer-Tech/school-management-system-in-react-node-js-and-express-js/blob/main/public/docs/edition.png" alt="normalOrder">
-<img src="https://github.com/Volunteer-Tech/school-management-system-in-react-node-js-and-express-js/blob/main/public/docs/editionOrder.png" alt="orderSwitch">
-</p>
 
 ## Technology Stack :
 
@@ -96,6 +67,39 @@ In the root directory of the webapp using
 ```
 npm start
 ```
+
+<p align="center">
+  
+  ## Sample screenshots 
+<h3>Home Page</h3>
+<img src="https://github.com/Volunteer-Tech/school-management-system-in-react-node-js-and-express-js/blob/main/public/docs/home.png" alt="home">
+<h3>Department Page</h3>
+<img src="https://github.com/Volunteer-Tech/school-management-system-in-react-node-js-and-express-js/blob/main/public/docs/department.png" alt="department">
+<h3>Committee Page</h3>
+<img src="https://github.com/Volunteer-Tech/school-management-system-in-react-node-js-and-express-js/blob/main/public/docs/committee.png" alt="committee">
+<h3>Project Page</h3>
+<img src="https://github.com/Volunteer-Tech/school-management-system-in-react-node-js-and-express-js/blob/main/public/docs/project.png" alt="project">
+<h3>Library Page</h3>
+<img src="https://github.com/Volunteer-Tech/school-management-system-in-react-node-js-and-express-js/blob/main/public/docs/authorTag.png" alt="authorTag">
+<h3>Add a Book</h3>
+<img src="https://github.com/Volunteer-Tech/school-management-system-in-react-node-js-and-express-js/blob/main/public/docs/add.png" alt="add">
+<h3>Update a Book</h3>
+<img src="https://github.com/Volunteer-Tech/school-management-system-in-react-node-js-and-express-js/blob/main/public/docs/update.png" alt="update">
+<h3>List Items based on Tag Names</h3>
+<h5>List Books by the Author Name</h5>
+<img src="https://github.com/Volunteer-Tech/school-management-system-in-react-node-js-and-express-js/blob/main/public/docs/authorTag.png" alt="authorTag">
+<h5>List Books by the Title of the Books</h5>
+<img src="https://github.com/Volunteer-Tech/school-management-system-in-react-node-js-and-express-js/blob/main/public/docs/nameTag.png" alt="nameTag">
+<h5>List Books by the Editon of the Books</h5>
+<img src="https://github.com/Volunteer-Tech/school-management-system-in-react-node-js-and-express-js/blob/main/public/docs/edition.png" alt="editionTag">
+<h3> Search an item by Tag</h3>
+<img src="https://github.com/Volunteer-Tech/school-management-system-in-react-node-js-and-express-js/blob/main/public/docs/search.png" alt="search">
+<h3> Change the order of the current Tag</h3>
+<img src="https://github.com/Volunteer-Tech/school-management-system-in-react-node-js-and-express-js/blob/main/public/docs/edition.png" alt="normalOrder">
+<img src="https://github.com/Volunteer-Tech/school-management-system-in-react-node-js-and-express-js/blob/main/public/docs/editionOrder.png" alt="orderSwitch">
+</p>
+
+
 ## Contributing
 
 1.  Fork it (https://github.com/Volunteer-Tech/school-management-system-in-react-node-js-and-express-js/fork)
